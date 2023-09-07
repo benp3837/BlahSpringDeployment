@@ -15,6 +15,8 @@ public class CourseManagementSystemApplication {
 
 		// Things get wonky if we try to add in stuff to manually test in our main method here
 		// So we implement the command line runner functional interface and go from there
+
+		System.out.println("testing pipeline");
 	}
 
 	/*
